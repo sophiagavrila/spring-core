@@ -10,7 +10,6 @@ public class BasicSpellChecker implements SpellChecker{
         } else {
             throw new RuntimeException("An exception occurred " +
                     "while checking Spelling");
-            // testing out git ignore
         }
     }
 
