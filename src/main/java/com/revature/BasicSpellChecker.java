@@ -1,6 +1,6 @@
 package com.revature;
 
-public class BasicSpellChecker implements SpellChecker{
+public class BasicSpellChecker {
 	
     public void checkSpelling(String emailMessage) {
     	
